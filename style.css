@@ -28,6 +28,7 @@ div {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+    border-bottom: 40px;
 
 
 }
@@ -90,4 +91,26 @@ img {
     left: 50%;
     right: 50%;
     background-position: center;
+}
+
+.box {
+    height: 80px;
+    margin: 10px;
+    width: 80px;
+    text-align: center;
+    display: inline-block;
+    background: rgb(224, 215, 215);
+    padding-top: 20px;
+    border-radius: 3px;
+
+
+}
+
+.box:hover {
+    background: rgb(241, 189, 191);
+    border: 3px solid rgb(219, 193, 193);
+}
+
+section {
+    text-align: center;
 }
