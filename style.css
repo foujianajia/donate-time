@@ -77,8 +77,6 @@ img {
     margin: 2% auto;
     width: 20%;
 
-
-
     padding-left: 3px;
     padding-top: 3px;
     border-radius: 5px;
@@ -91,7 +89,9 @@ img {
     left: 50%;
     right: 50%;
     background-position: center;
+
 }
+
 
 .box {
     height: 80px;
@@ -102,9 +102,9 @@ img {
     background: rgb(224, 215, 215);
     padding-top: 20px;
     border-radius: 3px;
-
-
 }
+
+
 
 .box:hover {
     background: rgb(241, 189, 191);
@@ -113,4 +113,19 @@ img {
 
 section {
     text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+
+
+.ending {
+    background-color: rgb(14, 13, 13);
+    font-size: 20px;
+}
+
+.gonna-do {
+    font-size: 10px;
 }
